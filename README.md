@@ -29,7 +29,7 @@ Customer Segmentation: Understand customer behavior.
 
 3.Interact with filters and visuals. 
 
-# LEARNING:
+# Learning:
 Incorporated data analysis techniques, specializing in time series analaysis, to deliver valuable insights, accurate sales forecasting, and interactive Dashboard creation, driving business success.
 #
 #
