@@ -1,4 +1,4 @@
-# PowerBI_SuperStore_Sales_Dashboard
+# SuperStore Sales Dashboard
 
 # Overview:
 This Sales Analytics Dashboard is a data-driven tool designed to provide valuable insights into sales performance. Leveraging the power of Power BI, this interactive dashboard allows users to explore sales data, identify trends, and make informed business decisions.
